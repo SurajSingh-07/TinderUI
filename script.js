@@ -5,7 +5,7 @@ let users = [
     displayPic:
       "https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     pendingMsg: 4,
-    locaton: "Delhi, India",
+    locaton: "Jabalpur, India",
     name: "Nancy",
     age: 20,
     interests: [
@@ -40,7 +40,7 @@ let users = [
         interest: "Reading",
       },
     ],
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt distinctio, provident laboriosam labore.",
+    bio: "HAda Sexy Sam ipsum dolor sit amet, consectetur adipisicing elit. Deserunt distinctio, provident laboriosam labore.",
     isFreind: null,
   },
   {
@@ -62,7 +62,7 @@ let users = [
         interest: "Traveling",
       },
     ],
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt distinctio, provident laboriosam labore.",
+    bio: "Deep ipsum dolor sit amet, consectetur adipisicing elit. Deserunt distinctio, provident laboriosam labore.",
     isFreind: null,
   },
   {
@@ -81,7 +81,7 @@ let users = [
         icon: `<i class="ri-tv-2-fill"></i>`,
         interest: "Anime"
     }],
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt distinctio, provident laboriosam labore.",
+    bio: "Saks ipsum dolor sit amet, consectetur adipisicing elit. Deserunt distinctio, provident laboriosam labore.",
     isFreind: null,
   },
 ];
