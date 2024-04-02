@@ -45,6 +45,28 @@ let users = [
   },
   {
     profilePic:
+      "https://images.unsplash.com/photo-1586752847555-97759e620aeb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    displayPic:
+      "https://images.unsplash.com/photo-1609505849320-29530bcb2d26?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    pendingMsg: 4,
+    locaton: "Varanasi, India",
+    name: "Shweta",
+    age: 20,
+    interests: [
+      {
+        icon: `<i class="ri-women-fill"></i>`,
+        interest: "Dance",
+      },
+      {
+        icon: `<i class="ri-slideshow-3-fill"></i>`,
+        interest: "Reel",
+      },
+    ],
+    bio: "SHweta ipsum dolor sit amet, consectetur adipisicing elit. Deserunt distinctio, provident laboriosam labore.",
+    isFreind: null,
+  },
+  {
+    profilePic:
       "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     displayPic:
       "https://images.unsplash.com/photo-1524255684952-d7185b509571?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
